@@ -1,0 +1,12 @@
+.center{
+    text-align: center;
+    color: maroon;
+}
+.left{
+    text-align: left;
+    color: gold;
+}
+.right{
+    text-align: right;
+    color: darkblue
+}
